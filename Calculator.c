@@ -57,6 +57,7 @@ int hasah(int too3, int too4)
 }
 int urjih(int too5, int too6)
 {
+//test
      int answer;
      answer = too5 * too6;
      return answer;
